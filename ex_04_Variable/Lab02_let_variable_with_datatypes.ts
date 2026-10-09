@@ -1,0 +1,21 @@
+let num:number=10;
+let myname:string="Dilip Kumar K";
+let b:boolean=true;
+let c:any="Hello World";
+let d:unknown=100;
+let e:undefined=undefined;
+let f:null=null;
+let g:bigint=100n;
+let h:symbol=Symbol("Hello");
+let i:object={name:"Dilip",age:30};
+
+console.log(num);
+console.log(myname);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
+console.log(f);
+console.log(g);
+console.log(h);
+console.log(i);

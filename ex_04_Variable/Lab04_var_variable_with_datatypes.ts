@@ -1,0 +1,21 @@
+var num:number=10;
+var myname:string="Dilip Kumar K";
+var b:boolean=true;
+var c:any="Hello World";
+var d:unknown=100;
+var e:undefined=undefined;
+var f:null=null;
+var g:bigint=1007688976787987878n;
+var h:symbol=Symbol("Hello");
+var i:object={name:"Dilip",age:30};
+
+console.log(num);
+console.log(myname);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
+console.log(f);
+console.log(g);
+console.log(h);
+console.log(i);
