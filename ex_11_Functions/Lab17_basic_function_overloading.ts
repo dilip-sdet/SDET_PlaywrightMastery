@@ -1,6 +1,6 @@
 //Signature of function
 function getInfo(id:number):number;
-function getInfo(name:string);String;
+function getInfo(name:string):string;
 
 function getInfo(param:number | string):string{
     if(typeof param === "number"){
